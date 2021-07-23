@@ -5,16 +5,16 @@ Google Students	11	Google	6/27/2021	Preparacion Google	1	1
 Googlers Jodie and Kelsey share details about the 	16	Google Interviews	6/27/2021	Preparacion Google	1	1
 Chuck Berry & Julian Lennon - Johnny B Goode (1986	4	Musica Rock	6/27/2021	Preparacion Google	1	1
 Keith Richards invited a roster of great musicians	4	Musica Rock	6/27/2021	Preparacion Google	1	1
-Aprende inglÈs con Will Smith - Entrevista laboral	21	Ingles	6/27/2021	Preparacion Google	1	1
-Aprende InglÈs con Movie Method	21	Ingles	6/27/2021	Preparacion Google	1	1
+Aprende ingl√©s con Will Smith - Entrevista laboral	21	Ingles	6/27/2021	Preparacion Google	1	1
+Aprende Ingl√©s con Movie Method	21	Ingles	6/27/2021	Preparacion Google	1	1
 C1 Advanced Speaking test - Raphael and Maude | Ca	15	Ingles	6/27/2021	Preparacion Google	1	1
 Jugadores con gonzalito CQC MUNDIAL 9 JULIO 2014 A	14	CQC	6/27/2021	Preparacion Google	1	1
 CQC ARGENTINA MUNDIAL 9 DE JULIO 2014 ARGENTINA VS	4	CQC	6/27/2021	Preparacion Google	1	1
 Lionel Messi en No hay 2 sin 3 - Hombres de campo	15	Comedia	6/27/2021	Preparacion Google	1	1
 "Los Simuladores (saquen al chino, completo"")"	5	Simuladores	6/27/2021	Preparacion Google	1	1
 Oficinas Google Argentina - Hiperconectados	5	Google	6/27/2021	Preparacion Google	1	1
-øCÛmo recluta Google en Argentina?	20	Google Interviews	6/27/2021	Preparacion Google	1	1
-"Entrevista a Natalia Marc˙, HR Manager de Google H"	20	Entrevista	6/27/2021	Preparacion Google	1	1
+¬øC√≥mo recluta Google en Argentina?	20	Google Interviews	6/27/2021	Preparacion Google	1	1
+"Entrevista a Natalia Marc√∫, HR Manager de Google H"	20	Entrevista	6/27/2021	Preparacion Google	1	1
 Como son las oficinas de Google en Argentina	5	Google Interviews	6/27/2021	Preparacion Google	1	1
 Prepare for Your Google Interview: Troubleshooting	10	Google Interviews	6/27/2021	Preparacion Google	1	1
 Life at Google	5	Google	6/27/2021	Preparacion Google	1	1
@@ -23,12 +23,12 @@ Googlers share targeted advice for the troubleshoo	10	Google Interviews	6/27/202
 Create Your Resume for Google: Tips and Advice	10	Google Interviews	6/27/2021	Preparacion Google	1	1
 Google Cloud Platform Full Course | Google Cloud P	30	Programacion	6/27/2021	Preparacion Google	1	1
 Best Data Engineering resources	15	Tecnologia	6/27/2021	Preparacion Google	1	1
-5 ALGORITMOS que DEBERÕAS (al menos) conocer	8	Tecnologia	6/28/2021	Preparacion Google	1	1
+5 ALGORITMOS que DEBER√çAS (al menos) conocer	8	Tecnologia	6/28/2021	Preparacion Google	1	1
 Interviewing for Googleyness at Google	15	Interview advices	6/28/2021	Preparacion Google	1	1
 My Computer Science Masters Degree in 9 Minutes	15	Academico	6/28/2021	Preparacion Google	1	1
 I got rejected by Google	10	Interview advices	6/28/2021	Preparacion Google	1	1
 Keep On Coding	10	Programacion	6/28/2021	Preparacion Google	1	1
-Scioli defiende la privatizaciÛn de YPF y elogia a	3	Politica	6/28/2021	Preparacion Google	1	1
+Scioli defiende la privatizaci√≥n de YPF y elogia a	3	Politica	6/28/2021	Preparacion Google	1	1
 Google Behavioral Interview With A Tech YouTuber	6	Interview advices	6/29/2021	Preparacion Google	1	1
 24 Most Asked Questions in Interviews at Google	6	Interview advices	6/29/2021	Preparacion Google	1	1
 Upcoming Amazon Telephone Screen? Learn how to ans	13	Interview advices	6/29/2021	Preparacion Google	1	1
@@ -47,19 +47,19 @@ Cruce de Messi y ter Stegen con un periodista de M	2	Futbol	7/1/2021	Entrevista 
 Spinetta jade - Nunca me oiste en tiempo	5	Musica Rock	7/1/2021	Entrevista con Google	1	2
 ALEMANIA MUNDIAL 2006-ENTREVISTAS DE ENVIADOS DEL 	5	Futbol	7/2/2021	Entrevista con Google	1	2
 "Blooper, Menem lo nombra a Figuretti - Videomatch "	1	Futbol	7/2/2021	Entrevista con Google	1	2
-Diego Capusotto en MaÒanas Informales	32	Futbol	7/2/2021	Entrevista con Google	1	2
+Diego Capusotto en Ma√±anas Informales	32	Futbol	7/2/2021	Entrevista con Google	1	2
 Muddy Waters - Live In Chicago 1979	60	Musica Blues	7/3/2021	Entrevista con Google	1	2
-Invisible - El JardÌn de los Presentes (1976) (Ful	40	Musica Rock	7/3/2021	Entrevista con Google	1	2
+Invisible - El Jard√≠n de los Presentes (1976) (Ful	40	Musica Rock	7/3/2021	Entrevista con Google	1	2
 Jimi Hendrix greatest hits (full album) - Best son	60	Musica Rock	7/3/2021	Entrevista con Google	1	2
-Edelmiro Molinari - Expreso de Agua Santa [¡lbum C	52	Musica Rock	7/3/2021	Entrevista con Google	1	2
+Edelmiro Molinari - Expreso de Agua Santa [√Ålbum C	52	Musica Rock	7/3/2021	Entrevista con Google	1	2
 Luis Alberto Spinetta fascinado frente a una prueb	1	Musica Rock	7/3/2021	Entrevista con Google	1	2
 El Monstruo de la laguna - Homenaje a Spinetta en 	6	Musica Rock	7/3/2021	Entrevista con Google	1	2
-PROBANDO GITHUB COPILOT: La IA que øTe ayuda? a Pr	1	Programacion	7/4/2021	Entrevista con Google	1	2
-"Badia & Cia. desde Obras, 1988 - Charly GarcÌa, sh"	25	Musica Rock	7/4/2021	Entrevista con Google	1	2
+PROBANDO GITHUB COPILOT: La IA que ¬øTe ayuda? a Pr	1	Programacion	7/4/2021	Entrevista con Google	1	2
+"Badia & Cia. desde Obras, 1988 - Charly Garc√≠a, sh"	25	Musica Rock	7/4/2021	Entrevista con Google	1	2
 Fuzzy Matching -- Data Quality in Talend By Vamsi	10	Programacion	7/4/2021	Entrevista con Google	1	2
 Canned Heat Blues Band	50	Musica Blues	7/4/2021	Entrevista con Google	1	2
 HOWLIN' WOLF - Live in Chicago (1969) - Full Album	60	Musica Blues	7/4/2021	Entrevista con Google	1	2
-øQue tiene de llamativa esta camisa? - Los Simulad	1	Simuladores	7/5/2021	Semana Post Entrevista	1	3
+¬øQue tiene de llamativa esta camisa? - Los Simulad	1	Simuladores	7/5/2021	Semana Post Entrevista	1	3
 I got rejected by Google	20	Google Interviews	7/5/2021	Semana Post Entrevista	1	3
 Mark Zuckerberg's 2004 Interview: See How Far He A	4	Tecnologia	7/5/2021	Semana Post Entrevista	1	3
 Steve Jobs Makes Fun of DOS in 1992	1	Tecnologia	7/5/2021	Semana Post Entrevista	1	3
@@ -71,20 +71,20 @@ Essere o Avere	2	Italiano	7/6/2021	Semana Post Entrevista	1	3
 Aussiliare Essere	11	Italiano	7/6/2021	Semana Post Entrevista	1	3
 Beretta Dt11 EELL	5	Tiro	7/7/2021	Argentina va a jugar la final	1	4
 Figuretti en Amsterdam	5	VideoMatch	7/7/2021	Argentina va a jugar la final	1	4
-Atleta EspaÒol JJOO	1	Deportes	7/7/2021	Argentina va a jugar la final	1	4
+Atleta Espa√±ol JJOO	1	Deportes	7/7/2021	Argentina va a jugar la final	1	4
 Diego Maradona Tomo alcohol	1	Futbol	7/7/2021	Argentina va a jugar la final	1	4
 Ringo Starr Habla de los beatles	3		7/7/2021	Argentina va a jugar la final	1	4
-Imitador Mariano Closs	1	Youtuber-EspaÒol	7/8/2021	Argentina va a jugar la final	1	4
+Imitador Mariano Closs	1	Youtuber-Espa√±ol	7/8/2021	Argentina va a jugar la final	1	4
 Extract Youtube Videos	13	Sistemas	7/8/2021	Argentina va a jugar la final	1	4
 Api Google Youtube	16	Sistemas	7/8/2021	Argentina va a jugar la final	1	4
-Argentina 1-0 Brasil	3	Futbol	7/10/2021	Argentina ganÚ la Copa America	1	5
-Rinaldo Rafanneli - Gaddy	4	Musica Rock	7/10/2021	Argentina ganÚ la Copa America	1	5
-Lucille	4	How to play Guitar	7/10/2021	Argentina ganÚ la Copa America	1	5
-Messi llorando	2	Futbol	7/11/2021	Argentina ganÚ la Copa America	1	5
-Messi hablando con el padre	2	Futbol	7/11/2021	Argentina ganÚ la Copa America	1	5
-Asi relato Ibai	6	Youtuber-EspaÒol	7/11/2021	Argentina ganÚ la Copa America	1	5
-Relato Emocionante	8	Futbol	7/11/2021	Argentina ganÚ la Copa America	1	5
-Vignolo Messi	1	Futbol	7/11/2021	Argentina ganÚ la Copa America	1	5
-Messi le grabo un video	2	Futbol	7/12/2021	Argentina ganÚ la Copa America	1	5
-Asi llego Messi a Argentina	4	Futbol	7/12/2021	Argentina ganÚ la Copa America	1	5
-Figuretti en Rio de janeiro	4	VideoMatch	7/12/2021	Argentina ganÚ la Copa America	1	5
+Argentina 1-0 Brasil	3	Futbol	7/10/2021	Argentina gan√≤ la Copa America	1	5
+Rinaldo Rafanneli - Gaddy	4	Musica Rock	7/10/2021	Argentina gan√≤ la Copa America	1	5
+Lucille	4	How to play Guitar	7/10/2021	Argentina gan√≤ la Copa America	1	5
+Messi llorando	2	Futbol	7/11/2021	Argentina gan√≤ la Copa America	1	5
+Messi hablando con el padre	2	Futbol	7/11/2021	Argentina gan√≤ la Copa America	1	5
+Asi relato Ibai	6	Youtuber-Espa√±ol	7/11/2021	Argentina gan√≤ la Copa America	1	5
+Relato Emocionante	8	Futbol	7/11/2021	Argentina gan√≤ la Copa America	1	5
+Vignolo Messi	1	Futbol	7/11/2021	Argentina gan√≤ la Copa America	1	5
+Messi le grabo un video	2	Futbol	7/12/2021	Argentina gan√≤ la Copa America	1	5
+Asi llego Messi a Argentina	4	Futbol	7/12/2021	Argentina gan√≤ la Copa America	1	5
+Figuretti en Rio de janeiro	4	VideoMatch	7/12/2021	Argentina gan√≤ la Copa America	1	5
